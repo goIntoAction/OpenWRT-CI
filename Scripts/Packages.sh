@@ -36,8 +36,8 @@ UPDATE_PACKAGE "wol" "VIKINGYFY/packages" "main" "pkg"
 UPDATE_PACKAGE "luci-app-gecoosac" "lwb1978/openwrt-gecoosac" "main"
 UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
 
-#UPDATE_PACKAGE "ddnsto" "goIntoAction/ddnsto" "master"
-#UPDATE_PACKAGE "luci-app-ddnsto" "goIntoAction/luci-app-ddnsto" "master"
+UPDATE_PACKAGE "ddnsto" "goIntoAction/ddnsto" "master"
+UPDATE_PACKAGE "luci-app-ddnsto" "goIntoAction/luci-app-ddnsto" "master"
 
 UPDATE_PACKAGE "lazyoop" "lazyoop/networking-artifact" "main"
 
