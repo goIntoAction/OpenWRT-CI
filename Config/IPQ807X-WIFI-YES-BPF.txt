@@ -58,3 +58,6 @@ CONFIG_WOLFSSL_ALT_NAMES=y
 # end of wolfSSL Library Configuration
 
 CONFIG_PACKAGE_luci-app-daed=y
+
+CONFIG_PACKAGE_ddnsto=y
+CONFIG_PACKAGE_luci-app-ddnsto=y
