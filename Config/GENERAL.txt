@@ -97,6 +97,8 @@ CONFIG_PACKAGE_luci-proto-relay=y
 CONFIG_PACKAGE_openssl-util=y
 CONFIG_PACKAGE_iptables-nft=y
 CONFIG_PACKAGE_xtables-nft=y
+CONFIG_PACKAGE_arptables-nft=y
+CONFIG_PACKAGE_ebtables-nft=y
 
 CONFIG_PACKAGE_opkg=y
 CONFIG_BUSYBOX_CUSTOM=y
