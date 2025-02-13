@@ -41,6 +41,8 @@ UPDATE_PACKAGE "luci-app-ddnsto" "goIntoAction/luci-app-ddnsto" "master"
 
 UPDATE_PACKAGE "lazyoop" "lazyoop/networking-artifact" "main"
 
+UPDATE_PACKAGE "port-forward" "goIntoAction/port-forward" "main"
+
 if [[ $WRT_REPO != *"immortalwrt"* ]]; then
 	UPDATE_PACKAGE "qmi-wwan" "immortalwrt/wwan-packages" "master" "pkg"
 fi
